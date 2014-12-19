@@ -1,0 +1,15 @@
+.horiz {
+	display: inline;
+}
+iframe {
+	margin-top: 30px;
+	margin-right: 20px;
+	margin-left: 20px;
+	margin-bottom: 30px;
+}
+@font-face {
+	font-family: Boogaloo;
+	src: url( Boogaloo.otf ) format( "opentype" );
+	font-family: DroidSans;
+	src: url( DroidSans.ttf ) format( "opentype" );
+}
